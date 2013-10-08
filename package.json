@@ -1,0 +1,12 @@
+{
+    "name": "kata-test-framework-js",
+    "description": "Kata test framework used by Codewars",
+    "directories": {
+        "lib": "./lib"
+    },
+    "main": "./lib/framework",
+    "version": "0.0.1",
+    "dependencies": {},
+    "engine": "node >= 0.8.6"
+}
+
