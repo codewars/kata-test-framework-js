@@ -1,5 +1,5 @@
 # This repo is deprecated!!
-Please see the (codewars-cli)[http://www.github.com/codewars/codewars-cli] project. The JS test framework is now contained within that project.
+Please see the [codewars-cli](http://www.github.com/codewars/codewars-cli) project. The JS test framework is now contained within that project.
 
 
 kata-test-framework-js
